@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # Copyright (c) 2020 Claudio Marelli
-# See LICENSE.rst for details
+# See LICENSE.txt for details
 
 import time
 import sys
